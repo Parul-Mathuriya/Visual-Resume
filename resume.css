@@ -545,6 +545,11 @@ vertical-align:middle;
   height: 40px;
   object-fit: contain;
 }
+.nasscom-logo{
+    width: 80px !important;
+    height: auto !important;
+    background: transparent;
+}
 
 @media screen and (max-width:768px){
 
